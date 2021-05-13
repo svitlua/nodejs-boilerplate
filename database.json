@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "email": "test2@gmail.com",
+      "phoneNumber": "+380671111111",
+      "firstName": "test",
+      "lastName": "test",
+      "password": "123123123",
+      "id": "05fdebb6-8380-4b52-b227-bcebe260fd04",
+      "createdAt": "2021-05-13T10:04:49.979Z",
+      "updatedAt": "2021-05-13T10:15:26.905Z"
+    }
+  ],
+  "fighters": [
+    {
+      "name": "Stromboli4",
+      "health": 100,
+      "power": 2,
+      "defense": 3,
+      "id": "10e0c5c9-185d-4fd7-be66-d721a35cf295",
+      "createdAt": "2021-05-13T09:08:51.454Z",
+      "updatedAt": "2021-05-13T10:20:00.635Z"
+    },
+    {
+      "name": "Spartakus",
+      "health": 50,
+      "power": 60,
+      "defense": 4,
+      "id": "d375610a-8a65-4ddc-a0c2-632316d9dcd6",
+      "createdAt": "2021-05-13T09:11:02.950Z"
+    },
+    {
+      "name": "RealCold 2 ",
+      "health": 80,
+      "power": 3,
+      "defense": 3,
+      "id": "9d09cd94-cb83-4e38-b49d-30755784798c",
+      "createdAt": "2021-05-13T10:05:11.772Z",
+      "updatedAt": "2021-05-13T10:14:30.283Z"
+    }
+  ],
+  "fights": []
+}
